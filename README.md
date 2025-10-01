@@ -2,7 +2,6 @@
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![Flask](https://img.shields.io/badge/flask-2.x-black.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 Proyek ini adalah sebuah aplikasi web sederhana yang dibangun menggunakan Python dan Flask untuk mensimulasikan alur kerja layanan USSD transfer pulsa, seperti layanan `*858#` yang populer di Indonesia. Aplikasi ini dirancang untuk dapat diintegrasikan dengan USSD Gateway milik operator telekomunikasi.
 
